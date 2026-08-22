@@ -92,5 +92,10 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0050-powx-n) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
