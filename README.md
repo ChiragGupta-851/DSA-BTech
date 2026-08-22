@@ -93,9 +93,18 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0069-sqrtx) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0050-powx-n) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
