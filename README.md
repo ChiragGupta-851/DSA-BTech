@@ -86,3 +86,11 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 ---
 
 *"Consistency beats intensity. One problem every day is better than many problems once in a while."*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+<!---LeetCode Topics End-->
