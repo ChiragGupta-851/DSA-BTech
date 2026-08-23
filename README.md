@@ -103,8 +103,13 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0069-sqrtx) |
+| [0875-koko-eating-bananas](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0875-koko-eating-bananas) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0069-sqrtx) |
+## Array
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
