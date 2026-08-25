@@ -104,6 +104,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0069-sqrtx) |
+| [0410-split-array-largest-sum](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -115,6 +116,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 ## Array
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -127,9 +129,18 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0410-split-array-largest-sum) |
 | [1927-sum-game](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1927-sum-game) |
 ## Game Theory
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1927-sum-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
