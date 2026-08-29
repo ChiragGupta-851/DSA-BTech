@@ -135,6 +135,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2643-row-with-maximum-ones](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2643-row-with-maximum-ones) |
 | [3861-minimum-capacity-box](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/3861-minimum-capacity-box) |
 ## String
 |  |
@@ -178,6 +179,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
+| [2643-row-with-maximum-ones](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2643-row-with-maximum-ones) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
