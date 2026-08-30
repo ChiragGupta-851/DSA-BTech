@@ -107,6 +107,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0069-sqrtx](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0875-koko-eating-bananas) |
@@ -128,6 +129,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0004-median-of-two-sorted-arrays](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0875-koko-eating-bananas) |
@@ -178,12 +180,14 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
 | [2643-row-with-maximum-ones](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2643-row-with-maximum-ones) |
 ## Dijkstra's Algorithm
@@ -195,4 +199,8 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0240-search-a-2d-matrix-ii) |
+## Sorting
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
