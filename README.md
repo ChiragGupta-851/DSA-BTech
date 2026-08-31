@@ -172,6 +172,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0145-binary-tree-postorder-traversal) |
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -212,12 +213,15 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
