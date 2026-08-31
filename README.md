@@ -171,6 +171,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0094-binary-tree-inorder-traversal) |
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -207,4 +208,16 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2517-maximum-tastiness-of-candy-basket) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
