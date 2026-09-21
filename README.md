@@ -174,6 +174,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0094-binary-tree-inorder-traversal](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0145-binary-tree-postorder-traversal) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -224,6 +225,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0102-binary-tree-level-order-traversal](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0145-binary-tree-postorder-traversal) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -231,4 +233,5 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0102-binary-tree-level-order-traversal](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0145-binary-tree-postorder-traversal) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1325-delete-leaves-with-a-given-value) |
 <!---LeetCode Topics End-->
