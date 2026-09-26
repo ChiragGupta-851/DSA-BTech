@@ -140,6 +140,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0875-koko-eating-bananas](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
@@ -199,6 +200,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0695-max-area-of-island](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0994-rotting-oranges) |
+| [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -224,6 +226,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0695-max-area-of-island](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0994-rotting-oranges) |
+| [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
 | [2643-row-with-maximum-ones](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2643-row-with-maximum-ones) |
 ## Dijkstra's Algorithm
