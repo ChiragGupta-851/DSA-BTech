@@ -273,4 +273,12 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | ------- |
 | [0547-number-of-provinces](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1971-find-if-path-exists-in-graph) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
