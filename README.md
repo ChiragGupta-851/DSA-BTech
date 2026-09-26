@@ -152,6 +152,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 ## String
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0796-rotate-string) |
 | [1927-sum-game](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1927-sum-game) |
 ## Greedy
 |  |
@@ -281,4 +282,8 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0061-rotate-list) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
