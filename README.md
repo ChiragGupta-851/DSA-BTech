@@ -136,6 +136,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0695-max-area-of-island](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0798-smallest-rotation-with-highest-score](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0875-koko-eating-bananas](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -173,6 +174,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0410-split-array-largest-sum) |
+| [0798-smallest-rotation-with-highest-score](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0798-smallest-rotation-with-highest-score) |
 ## Depth-First Search
 |  |
 | ------- |
