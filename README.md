@@ -139,6 +139,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0875-koko-eating-bananas](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0875-koko-eating-bananas) |
+| [0934-shortest-bridge](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
@@ -190,6 +191,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0547-number-of-provinces](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0733-flood-fill) |
+| [0934-shortest-bridge](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0934-shortest-bridge) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1971-find-if-path-exists-in-graph) |
@@ -203,6 +205,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0547-number-of-provinces](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0733-flood-fill) |
+| [0934-shortest-bridge](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0994-rotting-oranges) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
@@ -230,6 +233,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0542-01-matrix](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0733-flood-fill) |
+| [0934-shortest-bridge](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0994-rotting-oranges) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
