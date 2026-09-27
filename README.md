@@ -155,6 +155,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0796-rotate-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1927-sum-game](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1927-sum-game) |
 ## Greedy
 |  |
@@ -248,6 +249,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0145-binary-tree-postorder-traversal) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -291,4 +293,8 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0796-rotate-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
