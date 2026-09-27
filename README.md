@@ -145,6 +145,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1539-kth-missing-positive-number) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -193,6 +194,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0733-flood-fill](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0733-flood-fill) |
 | [0934-shortest-bridge](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0934-shortest-bridge) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -208,6 +210,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0934-shortest-bridge](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0994-rotting-oranges) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -216,6 +219,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0200-number-of-islands](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0695-max-area-of-island) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1971-find-if-path-exists-in-graph) |
 ## Heap (Priority Queue)
@@ -236,6 +240,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0934-shortest-bridge](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0994-rotting-oranges) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
 | [2643-row-with-maximum-ones](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2643-row-with-maximum-ones) |
 ## Dijkstra's Algorithm
