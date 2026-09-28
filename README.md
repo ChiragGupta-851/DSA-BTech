@@ -94,6 +94,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | ------- |
 | [0050-powx-n](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0069-sqrtx) |
+| [0892-surface-area-of-3d-shapes](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0892-surface-area-of-3d-shapes) |
 | [1927-sum-game](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
@@ -141,6 +142,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0798-smallest-rotation-with-highest-score](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0815-bus-routes](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0815-bus-routes) |
 | [0875-koko-eating-bananas](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0875-koko-eating-bananas) |
+| [0892-surface-area-of-3d-shapes](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0892-surface-area-of-3d-shapes) |
 | [0934-shortest-bridge](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -245,6 +247,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0542-01-matrix](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0733-flood-fill) |
+| [0892-surface-area-of-3d-shapes](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0892-surface-area-of-3d-shapes) |
 | [0934-shortest-bridge](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0994-rotting-oranges) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
@@ -321,4 +324,8 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [0892-surface-area-of-3d-shapes](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0892-surface-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
