@@ -163,6 +163,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0022-generate-parentheses) |
 | [0796-rotate-string](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0796-rotate-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -181,6 +182,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0542-01-matrix) |
 ## Prefix Sum
@@ -331,10 +333,15 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
 |  |
 | ------- |
 | [0892-surface-area-of-3d-shapes](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0892-surface-area-of-3d-shapes) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
