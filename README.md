@@ -165,6 +165,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | ------- |
 | [0022-generate-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0022-generate-parentheses) |
 | [0796-rotate-string](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1927-sum-game) |
@@ -290,6 +291,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0145-binary-tree-postorder-traversal) |
+| [0856-score-of-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
@@ -346,6 +348,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
