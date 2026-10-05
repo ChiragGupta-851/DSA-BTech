@@ -200,6 +200,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0200-number-of-islands](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0310-minimum-height-trees) |
 | [0508-most-frequent-subtree-sum](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0508-most-frequent-subtree-sum) |
 | [0547-number-of-provinces](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0695-max-area-of-island) |
@@ -220,6 +221,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0200-number-of-islands](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0310-minimum-height-trees) |
 | [0542-01-matrix](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0695-max-area-of-island) |
@@ -323,6 +325,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | ------- |
 | [0207-course-schedule](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1971-find-if-path-exists-in-graph) |
@@ -358,6 +361,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | ------- |
 | [0207-course-schedule](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
