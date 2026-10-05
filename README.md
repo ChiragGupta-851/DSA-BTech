@@ -96,6 +96,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0069-sqrtx](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0342-power-of-four) |
 | [0892-surface-area-of-3d-shapes](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0892-surface-area-of-3d-shapes) |
 | [1927-sum-game](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -105,6 +106,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0050-powx-n](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
@@ -386,4 +388,5 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
