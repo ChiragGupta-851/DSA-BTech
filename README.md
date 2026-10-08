@@ -175,6 +175,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1927-sum-game) |
+| [2390-removing-stars-from-a-string](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -300,6 +301,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0856-score-of-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -389,4 +391,8 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | ------- |
 | [0231-power-of-two](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0342-power-of-four) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
