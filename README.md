@@ -174,6 +174,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0856-score-of-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1927-sum-game) |
 | [2390-removing-stars-from-a-string](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
@@ -325,6 +326,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0508-most-frequent-subtree-sum) |
 | [0815-bus-routes](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0815-bus-routes) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2465-number-of-distinct-averages](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2465-number-of-distinct-averages) |
 ## DP on Trees
 |  |
