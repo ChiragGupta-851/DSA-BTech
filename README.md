@@ -147,6 +147,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0815-bus-routes](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0815-bus-routes) |
+| [0851-loud-and-rich](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0851-loud-and-rich) |
 | [0875-koko-eating-bananas](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0875-koko-eating-bananas) |
 | [0892-surface-area-of-3d-shapes](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0892-surface-area-of-3d-shapes) |
 | [0934-shortest-bridge](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0934-shortest-bridge) |
@@ -217,6 +218,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0733-flood-fill](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0802-find-eventual-safe-states) |
+| [0851-loud-and-rich](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0851-loud-and-rich) |
 | [0934-shortest-bridge](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0934-shortest-bridge) |
 | [1020-number-of-enclaves](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1020-number-of-enclaves) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -345,6 +347,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0547-number-of-provinces](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0802-find-eventual-safe-states) |
+| [0851-loud-and-rich](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0851-loud-and-rich) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1971-find-if-path-exists-in-graph) |
 ## Linked List
 |  |
@@ -383,11 +386,13 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0210-course-schedule-ii](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0802-find-eventual-safe-states) |
+| [0851-loud-and-rich](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0851-loud-and-rich) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0207-course-schedule) |
 | [0797-all-paths-from-source-to-target](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0797-all-paths-from-source-to-target) |
+| [0851-loud-and-rich](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0851-loud-and-rich) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
