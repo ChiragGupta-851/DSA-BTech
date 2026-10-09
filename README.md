@@ -175,6 +175,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0856-score-of-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1927-sum-game) |
@@ -183,6 +184,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0410-split-array-largest-sum) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1927-sum-game) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -307,6 +309,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0856-score-of-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
@@ -369,6 +372,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0856-score-of-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
 |  |
