@@ -136,6 +136,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0200-number-of-islands) |
@@ -389,6 +390,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0039-combination-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0797-all-paths-from-source-to-target) |
 ## Topological Sort
 |  |
