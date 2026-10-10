@@ -138,6 +138,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0074-search-a-2d-matrix](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0410-split-array-largest-sum) |
@@ -265,6 +266,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
@@ -294,10 +296,12 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0004-median-of-two-sorted-arrays) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2465-number-of-distinct-averages](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2465-number-of-distinct-averages) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -414,4 +418,8 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2390-removing-stars-from-a-string) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
