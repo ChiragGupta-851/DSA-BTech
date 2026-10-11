@@ -171,6 +171,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [2465-number-of-distinct-averages](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2465-number-of-distinct-averages) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2643-row-with-maximum-ones](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2643-row-with-maximum-ones) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3861-minimum-capacity-box](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/3861-minimum-capacity-box) |
 ## String
 |  |
@@ -432,4 +433,8 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0215-kth-largest-element-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
