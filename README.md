@@ -226,6 +226,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0547-number-of-provinces](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0851-loud-and-rich) |
@@ -249,6 +250,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0547-number-of-provinces](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0802-find-eventual-safe-states) |
 | [0815-bus-routes](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0815-bus-routes) |
@@ -275,6 +277,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0743-network-delay-time](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Matrix
@@ -300,6 +303,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
@@ -364,6 +368,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0210-course-schedule-ii](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0851-loud-and-rich) |
@@ -439,4 +444,8 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2778-sum-of-squares-of-special-elements) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
