@@ -282,6 +282,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0743-network-delay-time](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Matrix
@@ -308,6 +309,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0743-network-delay-time) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
@@ -377,6 +379,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0797-all-paths-from-source-to-target](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0851-loud-and-rich) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1971-find-if-path-exists-in-graph) |
 ## Linked List
 |  |
@@ -454,4 +457,5 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | ------- |
 | [0743-network-delay-time](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 <!---LeetCode Topics End-->
