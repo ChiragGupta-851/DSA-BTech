@@ -159,6 +159,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0994-rotting-oranges](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1539-kth-missing-positive-number) |
@@ -260,6 +261,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0934-shortest-bridge](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
@@ -301,6 +303,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0934-shortest-bridge](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
