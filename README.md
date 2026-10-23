@@ -180,6 +180,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0022-generate-parentheses) |
+| [0126-word-ladder-ii](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0127-word-ladder) |
 | [0796-rotate-string](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0856-score-of-parentheses) |
@@ -246,6 +247,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0126-word-ladder-ii](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0200-number-of-islands) |
@@ -367,6 +369,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | ------- |
 | [0036-valid-sudoku](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0041-first-missing-positive) |
+| [0126-word-ladder-ii](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0127-word-ladder) |
 | [0508-most-frequent-subtree-sum](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0508-most-frequent-subtree-sum) |
 | [0815-bus-routes](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0815-bus-routes) |
@@ -421,6 +424,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | ------- |
 | [0022-generate-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0039-combination-sum) |
+| [0126-word-ladder-ii](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0126-word-ladder-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0797-all-paths-from-source-to-target) |
 ## Topological Sort
 |  |
@@ -470,5 +474,6 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
