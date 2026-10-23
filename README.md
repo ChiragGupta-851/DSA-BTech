@@ -180,6 +180,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0022-generate-parentheses) |
+| [0127-word-ladder](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0127-word-ladder) |
 | [0796-rotate-string](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1021-remove-outermost-parentheses) |
@@ -245,6 +246,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0207-course-schedule) |
@@ -365,6 +367,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | ------- |
 | [0036-valid-sudoku](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0041-first-missing-positive) |
+| [0127-word-ladder](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0127-word-ladder) |
 | [0508-most-frequent-subtree-sum](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0508-most-frequent-subtree-sum) |
 | [0815-bus-routes](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0815-bus-routes) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -464,4 +467,8 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0743-network-delay-time](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
