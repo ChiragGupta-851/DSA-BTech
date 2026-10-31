@@ -166,6 +166,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [1539-kth-missing-positive-number](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1539-kth-missing-positive-number) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
@@ -271,6 +272,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -373,6 +375,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0127-word-ladder](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0127-word-ladder) |
 | [0508-most-frequent-subtree-sum](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0508-most-frequent-subtree-sum) |
 | [0815-bus-routes](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0815-bus-routes) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2465-number-of-distinct-averages](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2465-number-of-distinct-averages) |
 ## DP on Trees
