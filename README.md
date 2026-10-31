@@ -212,6 +212,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0410-split-array-largest-sum](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -323,6 +324,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0743-network-delay-time](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0743-network-delay-time) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -396,6 +398,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0851-loud-and-rich](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0851-loud-and-rich) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1971-find-if-path-exists-in-graph) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Linked List
 |  |
 | ------- |
@@ -437,6 +440,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0310-minimum-height-trees](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0851-loud-and-rich) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -474,6 +478,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0743-network-delay-time](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Bidirectional Search
 |  |
 | ------- |
