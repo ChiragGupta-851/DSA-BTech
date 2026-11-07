@@ -178,6 +178,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2643-row-with-maximum-ones](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3861-minimum-capacity-box](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/3861-minimum-capacity-box) |
 ## String
 |  |
@@ -194,6 +195,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1927-sum-game) |
 | [2390-removing-stars-from-a-string](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2390-removing-stars-from-a-string) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Greedy
 |  |
 | ------- |
@@ -409,6 +411,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [1971-find-if-path-exists-in-graph](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2039-the-time-when-the-network-becomes-idle) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Linked List
 |  |
 | ------- |
@@ -491,6 +494,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Bidirectional Search
 |  |
 | ------- |
