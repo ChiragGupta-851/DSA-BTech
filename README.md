@@ -170,6 +170,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [1654-minimum-jumps-to-reach-home](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -276,6 +277,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1971-find-if-path-exists-in-graph) |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2039-the-time-when-the-network-becomes-idle) |
 ## Union-Find
 |  |
 | ------- |
@@ -403,6 +405,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [1514-path-with-maximum-probability](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2039-the-time-when-the-network-becomes-idle) |
 ## Linked List
 |  |
 | ------- |
