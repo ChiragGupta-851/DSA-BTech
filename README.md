@@ -163,6 +163,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1514-path-with-maximum-probability](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1514-path-with-maximum-probability) |
 | [1539-kth-missing-positive-number](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1539-kth-missing-positive-number) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
@@ -294,6 +295,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0743-network-delay-time](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+| [1514-path-with-maximum-probability](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Matrix
@@ -323,6 +325,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | ------- |
 | [0743-network-delay-time](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0743-network-delay-time) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+| [1514-path-with-maximum-probability](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Divide and Conquer
@@ -397,6 +400,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0802-find-eventual-safe-states](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0851-loud-and-rich) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+| [1514-path-with-maximum-probability](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Linked List
@@ -478,6 +482,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0743-network-delay-time](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+| [1514-path-with-maximum-probability](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Bidirectional Search
 |  |
