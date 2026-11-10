@@ -181,6 +181,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [2643-row-with-maximum-ones](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3693-climbing-stairs-ii](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/3693-climbing-stairs-ii) |
 | [3861-minimum-capacity-box](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/3861-minimum-capacity-box) |
 ## String
 |  |
@@ -221,6 +222,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0787-cheapest-flights-within-k-stops](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3693-climbing-stairs-ii](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/3693-climbing-stairs-ii) |
 ## Prefix Sum
 |  |
 | ------- |
