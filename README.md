@@ -120,6 +120,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0875-koko-eating-bananas](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1488-avoid-flood-in-the-city](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1488-avoid-flood-in-the-city) |
 | [1539-kth-missing-positive-number](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -163,6 +164,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1488-avoid-flood-in-the-city](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1488-avoid-flood-in-the-city) |
 | [1514-path-with-maximum-probability](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1514-path-with-maximum-probability) |
 | [1539-kth-missing-positive-number](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1539-kth-missing-positive-number) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -200,6 +202,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0410-split-array-largest-sum) |
+| [1488-avoid-flood-in-the-city](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1488-avoid-flood-in-the-city) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1927-sum-game) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -302,6 +305,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0743-network-delay-time](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+| [1488-avoid-flood-in-the-city](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1488-avoid-flood-in-the-city) |
 | [1514-path-with-maximum-probability](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -388,6 +392,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0127-word-ladder](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0127-word-ladder) |
 | [0508-most-frequent-subtree-sum](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0508-most-frequent-subtree-sum) |
 | [0815-bus-routes](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0815-bus-routes) |
+| [1488-avoid-flood-in-the-city](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1488-avoid-flood-in-the-city) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2465-number-of-distinct-averages](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/2465-number-of-distinct-averages) |
