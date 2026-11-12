@@ -280,6 +280,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0994-rotting-oranges](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1462-course-schedule-iv](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1462-course-schedule-iv) |
@@ -415,6 +416,7 @@ Feel free to leave a ⭐ if you find the repository helpful or would like to fol
 | [0802-find-eventual-safe-states](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0851-loud-and-rich) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1462-course-schedule-iv](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1462-course-schedule-iv) |
 | [1514-path-with-maximum-probability](https://github.com/ChiragGupta-851/DSA-BTech/tree/master/1514-path-with-maximum-probability) |
